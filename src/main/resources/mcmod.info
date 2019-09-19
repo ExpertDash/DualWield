@@ -1,0 +1,11 @@
+[
+{
+  "modid": "dualwield",
+  "name": "Dual Wield",
+  "description": "Allows you dual wield weapons and tools. Works on multiplayer.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "authorList": ["DashMakes"],
+  "logoFile": "/dualwield.png"
+}
+]
