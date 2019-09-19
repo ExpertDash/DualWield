@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[25,)"
+logoFile="dualwield.png"
+[[mods]]
+modId="dualwield"
+version="1.0"
+displayName="Dual Wield"
+authors="DashMakes"
+description='''Allows you dual wield weapons. Works on multiplayer.'''
+[[dependencies.dualwield]]
+    modId="forge"
+    mandatory=true
+    versionRange="[25,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.dualwield]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.13.2]"
+    ordering="NONE"
+    side="BOTH"
